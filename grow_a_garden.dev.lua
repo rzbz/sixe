@@ -1,7 +1,7 @@
 GrowAGarden = {
   crop = {
     harvest = function()
-      print("Harvest")
+      print("Harvest1")
     end
   }
 }
