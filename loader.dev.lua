@@ -1,3 +1,4 @@
+(function()
 local v1 = "v1"
 local v2 = "v2"
 local f1 = function()
@@ -12,3 +13,4 @@ function gf1()
 end
 local o = {"a", "b", "c"}
 print("present!")
+end)
