@@ -11,3 +11,4 @@ function gf1()
   print("gf1")
 end
 local o = {"a", "b", "c"}
+print("present!")
