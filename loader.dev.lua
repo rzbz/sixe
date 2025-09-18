@@ -1,4 +1,3 @@
-(function()
 local v1 = "v1"
 local v2 = "v2"
 local f1 = function()
@@ -17,5 +16,4 @@ local jj = {
   b = 2
 }
 local b = buffer.fromstring("key")
-print("present! 3")
-end)()
+print("present! 4")
