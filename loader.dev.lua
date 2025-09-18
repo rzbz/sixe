@@ -17,5 +17,5 @@ local jj = {
   b = 2
 }
 local b = buffer.fromstring("key")
-print("present! 2")
+print("present! 3")
 end)()
