@@ -18,4 +18,4 @@ local jj = {
 }
 local b = buffer.fromstring("key")
 print("present! 2")
-end)
+end)()
