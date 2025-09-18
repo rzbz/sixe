@@ -12,5 +12,5 @@ function gf1()
   print("gf1")
 end
 local o = {"a", "b", "c"}
-print("present!")
+print("present! 2")
 end)
