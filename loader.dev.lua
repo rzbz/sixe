@@ -12,5 +12,10 @@ function gf1()
   print("gf1")
 end
 local o = {"a", "b", "c"}
+local jj = {
+  a = 1,
+  b = 2
+}
+local b = buffer.fromstring("key")
 print("present! 2")
 end)
